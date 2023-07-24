@@ -1,0 +1,19 @@
+{
+  "name": "secure-random-password",
+  "version": "1.0.0",
+  "description": "generate a random secure password",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaxyum/secure-random-password.git"
+  },
+  "author": "kaxyum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaxyum/secure-random-password/issues"
+  },
+  "homepage": "https://github.com/kaxyum/secure-random-password#readme"
+}
