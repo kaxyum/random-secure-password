@@ -1,14 +1,14 @@
-# Secure-Random-Password
+# Random-Secure-Password
 generate a random secure password
 
-# Install Secure-Random-Password
+# Install Random-Secure-Password
 ```
-npm i secure-random-password
+npm i random-secure-password
 ```
 
 # Generate a password
 ```js
-const srp = require('secure-random-password');
+const srp = require('random-secure-password');
 
 console.log(srp.generateSecurePassword(length));
 ```
