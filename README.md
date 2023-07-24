@@ -10,5 +10,5 @@ npm i random-secure-password
 ```js
 const srp = require('random-secure-password');
 
-console.log(srp.generateSecurePassword(length));
+srp.generateSecurePassword(length);
 ```
